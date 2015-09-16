@@ -1,5 +1,9 @@
 == README
 
+This ist a learning project for myself. Beginnner´s stuff...
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
